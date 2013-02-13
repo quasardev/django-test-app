@@ -1,0 +1,57 @@
+[
+    {
+        "model": "simple_products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Canon EOS Rebel T3",
+            "descr": "12.2 MP CMOS sensor and DIGIC 4 Image Processor for high image quality and speed. ISO 100 - 6400 for shooting from bright to dim light. High speed, reliable 9-point AF system utilizing a high precision, f/5.6 cross-type center point. Dual-layer metering system for accurate metering between exposures.",
+            "width": 20,
+            "heigth": 15,
+            "color_1": "#d1d1d1"
+        }
+    },
+    {
+        "model": "simple_products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Canon EOS Rebel T4i",
+            "descr": "18.0 Megapixel CMOS (APS-C) sensor, 14-bit A/D conversion, ISO 100-12800; expandable to 25600 (H) for shooting from bright to dim light and high performance DIGIC 5 Image Processor for exceptional image quality and speed. High speed continuous shooting up to 5.0 fps allows you to capture all the action.",
+            "width": 21,
+            "heigth": 16,
+            "color_1": "#c3c3c3"
+        }
+    },
+    {
+        "model": "simple_products.product",
+        "pk": 3,
+        "fields": {
+            "name": "Nikon D5100 16.2MP",
+            "descr": "3-inch, 921,000-dot Super-Density horizontal type Vari-Angle LCD Monitor. In-camera Special Effects Mode, 1 Yr Camera / 5 Yrs Lens. In-camera HDR (High Dynamic Range). Stunning Full 1080p HD Movies with Full Time Autofocus. ISO Sensitivity: 100-6400 (Extended Mode: 100-25600).",
+            "width": 22,
+            "heigth": 17,
+            "color_1": "#050505"
+        }
+    },
+    {
+        "model": "simple_products.product",
+        "pk": 4,
+        "fields": {
+            "name": "Canon EOS 5D Mark III",
+            "descr": "Newly designed 22.3 Megapixel full-frame CMOS sensor, 14-bit A/D conversion, wide range ISO setting 100-25600 (L:50, H1: 51200, H2: 102400) for shooting from bright to dim light and next generation DIGIC 5+ Image Processor for enhanced noise reduction and exceptional processing speed.",
+            "width": 21,
+            "heigth": 14,
+            "color_1": "#363636"
+        }
+    },
+    {
+        "model": "simple_products.product",
+        "pk": 5,
+        "fields": {
+            "name": "Nikon D7000 16.2MP DX",
+            "descr": "High Resolution 16.2 MP DX-format CMOS sensor. Body only; lenses sold separately. High Speed 6 frames per second continuous shooting up to 100 shots. Breathtaking Full 1080p HD Movies with Full Time Autofocus. Dynamic ISO range from 100 to 6400.",
+            "width": 20,
+            "heigth": 17,
+            "color_1": "#ababab"
+        }
+    }
+]
